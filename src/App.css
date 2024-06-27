@@ -1,0 +1,15 @@
+*{
+  padding:0px;
+  margin:0px;
+  box-sizing: border-box;;
+}
+
+.container {
+  width: 1440px;
+  height:1024px;
+  border-radius: 40px;
+  border:2px solid red;
+  margin:0px auto;
+  display: flex;
+  font-family: sans-serif;
+}

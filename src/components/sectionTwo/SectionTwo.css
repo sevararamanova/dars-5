@@ -1,0 +1,50 @@
+.sectionTwo {
+width: 326px;
+height: 1024px;
+left: 1114px;
+gap: 0px;
+opacity: 0px;
+border:2px solid rgb(161, 207, 81);
+}
+
+.admin {
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    gap:80px;
+    margin-top: 20px;
+}
+
+.admin__img {
+    display: flex;
+    align-items: center;
+    gap:20px;
+}
+.live {
+    margin-top: 50px;
+}
+#p1{
+    font-size: 30px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+.live img {
+    margin-left: 10px;
+    margin-top: 15px;
+   
+}
+.one {
+    display: flex;
+    align-items: center;
+   
+}
+.one__desc{
+    margin-left: 5px;
+    line-height: 25px;
+}
+.one__desc p {
+    font-weight: 600;
+}
+.one__desc span {
+    color:rgba(128, 128, 128, 0.533);
+}
